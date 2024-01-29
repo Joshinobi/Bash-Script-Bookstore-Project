@@ -1,0 +1,4 @@
+/=======================================\
+|  What would you like tp search for?	|
+|   Start your search with a keyword.	|
+\=======================================/

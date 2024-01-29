@@ -1,0 +1,10 @@
+/===============================================\
+|	 Please enter the details asked. 	|
+|           See example shown below.		|
+|						|
+|       Fullname: Firstname MI Lastname		|
+|     Address: #01 Street Barangay, City	|
+|      Email Address: email@example.com		|
+|            Username: myusername		|
+|             Password: P@ssw0rd		|
+\===============================================/
